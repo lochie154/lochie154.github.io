@@ -16,9 +16,9 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'jekyll-github-metadata'
-    gem 'jekyll'
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
+    gem 'jekyll-minifier'
 end
 group :other_plugins do
     gem 'httparty'
