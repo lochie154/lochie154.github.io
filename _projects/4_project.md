@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: paperback
+description: an e-book that feels like a real book
+img: 
 importance: 3
 category: fun
 ---
