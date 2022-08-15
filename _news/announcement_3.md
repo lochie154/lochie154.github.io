@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 12/08/2022
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+New Tech Product Announced: Thinktank, boost your understanding of any problem.

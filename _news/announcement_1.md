@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 12/8/2022
 inline: true
 ---
 
-A simple inline announcement.
+New Tech Product Announced: Paperback Book That Can Read and Write Like a Tablet
