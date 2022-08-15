@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'wdm', '>= 0.1.0'
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
@@ -21,7 +20,3 @@ group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
-#WINDOWS Gems That don't play well with nix
-platforms :mswin do 
-    gem "wdm", :group => [:development, :test]
-  end
