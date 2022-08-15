@@ -21,3 +21,7 @@ group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
+#WINDOWS Gems That don't play well with nix
+platforms :mswin do 
+    gem "wdm", :group => [:development, :test]
+  end
