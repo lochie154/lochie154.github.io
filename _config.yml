@@ -120,8 +120,6 @@ disqus_shortname: # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@lachlanrobinson154/feed
-  - name: youtube.com
-    rss_url: https://www.youtube.com/channel/UCVlJ55KbGNOXEbZDxpPlsIg
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
