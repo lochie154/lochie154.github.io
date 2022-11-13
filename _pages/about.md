@@ -7,7 +7,7 @@ subtitle: Fundamental scientist operating out of Carlton, VIC, Australia. Email 
 profile:
   align: right
   image: prof_pic.jpg
-  image_cicular: true # crops the image to make it circular
+  image_cicular: false # crops the image to make it circular
   address:
 
 news: true  # includes a list of news items
