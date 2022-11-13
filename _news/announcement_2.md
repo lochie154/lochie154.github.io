@@ -35,7 +35,7 @@ I am not a great writer, so I hope that having a public space to write will impr
 
 ##### **Brain** 
 
-I think the **human brain** is fascinating. I have attempted an honours thesis at the University of Sydney which was focusing on analysing fMRI data. I ended up discontinuing the program in the end (specific project was dull and I really didn't like living in Sydney) but my interest in the brain has grown further since then. 
+I think the **human brain** is fascinating. I have attempted an honours thesis at the University of Sydney which was focusing on analysing fMRI data. I ended up discontinuing the program in the end (specific research was dull and I really didn't like living in Sydney) but my interest in the brain has grown further since then. 
 
 My focus in this area at the moment is **creating a map of mathematical logic from mathematics/physics to neuroscience**. This way I will be able to understand which tools I can rely on when investigating the brain. The map will roughly follow this structure.
 <ul>
