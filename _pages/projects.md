@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: 
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: [constructor theory, math, p2p, neuroscience]
 horizontal: false
 ---
