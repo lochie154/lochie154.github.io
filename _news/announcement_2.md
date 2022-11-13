@@ -20,7 +20,7 @@ I am not a great writer, so I hope that having a public space to write will impr
 ***
 
 <ul>
-    <li>Projects</li>
+    <li>Research</li>
     <li>Random thoughts about science</li>
     <li>Teaching and tutoring details</li>
     <li>Personal and professional information</li>
